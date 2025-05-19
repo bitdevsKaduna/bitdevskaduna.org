@@ -24,3 +24,6 @@ github = "https://github.com/bitdevsKaduna/bitdevskaduna.org"
 luma    = "https://lu.ma/user/usr-zc4auFNQwLzsVhv"
 telegram = "https://t.me/+86EBBaYsaj84YjI0"
 twitter = "https://x.com/BitDevsKaduna"
+
+
+build_output = "public"
